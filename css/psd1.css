@@ -1,0 +1,289 @@
+.index-top{
+    height: 667px;
+    width: 1346px;
+    margin-left: 0;
+    background: url("../img/Layer 1.png") no-repeat;
+}
+.index-slider{
+    padding-top: 264px;
+    text-align: center;
+}
+.index-slider h1{
+    font-size: 48px;
+    color: #FFFFFF;
+}
+.index-slider h1 span{
+    color: #1dde85;
+}
+.index-slider p{
+    color: #FFFFFF;
+}
+
+.index-services{
+    margin-top: 124px;
+    margin-bottom: 90px;
+    text-align: center;
+}
+.index-services h3{
+    color: #454546;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+.index-services h3 span{
+    color: #1dde85;
+}
+
+.index-services p{
+    color: #8f8e91;
+    font-size: 18px;
+}
+
+.index-services .item-box{
+    margin-top: 38px;
+
+}
+
+.index-services .index-services-item{
+    float: left;
+    width: 356px;
+    height: 246px;
+    margin-top: 50px;
+    padding-top: 32px;
+    border: solid 1px #c3c1bf;
+    text-align: center;
+}
+
+.index-services .index-services-item:hover{
+    width: 354px;
+    height: 244px;
+    border: solid 2px #1dde85;
+}
+
+.index-services .index-services-item:hover h4{
+    color:  #1dde85;
+}
+
+.index-services .index-services-item:hover img{
+
+}
+
+.index-services .index-services-item img{
+    position: relative;
+    margin: 0 auto;
+}
+
+.index-services .index-services-item h4{
+    font-size: 24px;
+    color: #454546;
+    margin-bottom: 38px;
+}
+
+.index-services .index-services-item p{
+    font-size: 13px;
+    color: #8f8e91;
+    margin-bottom: 14px;
+}
+
+.index-services .item-mid{
+    margin-right: 48px;
+    margin-left: 48px;
+}
+
+.index-contactus{
+    margin-bottom: 108px;
+    text-align: center;
+}
+
+.index-contactus h3{
+    font-size: 30px;
+    color: #454546;
+    margin-bottom: 58px;
+}
+
+.index-contactus .contact-item {
+    float: left;
+    width: 268px;
+
+    margin-right: 30px;
+    padding-top: 305px;
+    background: url("../img/Layer 4.png") no-repeat;
+
+}
+
+.last-item{
+    float: left;
+    width: 268px;
+    padding-top: 305px;
+    background: url("../img/Layer 3.png") no-repeat;
+
+}
+
+.index-contactus .contact-item-text{
+    height: 68px;
+    padding-top: 16px;
+    border: none;
+    background: #424243;
+}
+
+.index-contactus .contact-item-text h4{
+    font-size: 18px;
+    color: #fffcf4;
+}
+
+.index-contactus .contact-item-text p{
+    font-size: 14px;
+    color: #9c9a96;
+}
+
+.index-works{
+    text-align: center;
+    margin-bottom: 110px;
+}
+
+.index-works h2{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.index-works ul{
+    position: relative;
+    left: 26%;
+    width: 74%;
+    margin-bottom: 48px;
+}
+
+.index-works li{
+    float: left;
+    text-align: center;
+    margin-right: 36px;
+    font-size: 18px;
+    border:  solid 1px transparent;
+}
+
+.index-works li:hover{
+    color: #1dde85;
+    border-bottom: solid 1px #1dde85;
+}
+
+.index-works .works-img{
+    width: 1170px;
+    margin-bottom: 52px;
+}
+.index-works .works-img img{
+    width: 390px;
+    float: left;
+}
+.index-works a{
+    position: relative;
+    margin: auto;
+
+    width: 195px;
+    height: 50px;
+    padding-top: 20px;
+    background: #1dde85;
+    color: #FFFFFF;
+    font-size: 18px;
+}
+
+.index-price{
+    margin-bottom: 126px;
+    text-align: center;
+}
+
+.index-price h3{
+    font-size: 30px;
+    color: #454546;
+    margin-bottom: 54px;s
+}
+
+.index-price button{
+    width: 98px;
+    height: 38px;
+    margin-top: 46px;
+    border: solid 1px #a7a6a2;
+    background: #FFFFFF;
+}
+
+.price-team{
+    float: left;
+    width: 268px;
+    height: 390px;
+    margin-right: 18px;
+    text-align: center;
+}
+
+.price-team h4 , .price-team p{
+    font-size: 14px;
+    color: #969598;
+}
+
+.price-team h4{
+    margin-bottom: 30px;
+}
+
+.price-box{
+    width: 268px;
+    height: 392px;
+}
+.price-box-top{
+    padding-top: 16px;
+    margin-bottom: 30px;
+    width: 266px;
+    height: 74px;
+    border: solid 1px #a8a7a3;
+    font-size: 36px;
+
+}
+.price-box-top sup{
+    font-size: 24px;
+}
+.price-box-top sub{
+    font-size: 18px;
+}
+
+.price-team:hover .price-box{ width: 268px;  height: 390px;  border: solid 1px #87ecb9;  }
+.price-team:hover h4{ color: #1dde85;  }
+.price-team:hover .price-box-top{ width: 100%;  background: #1dde85;  border: none; } .price-team:hover .price-box-top span{ color: #FFFFFF}
+.price-team:hover button{ border: solid 1px #1dde85;background: #1dde85}
+
+
+.submit-mes{
+    width: 100%;
+    height: 460px;
+    padding-top: 38px;
+    background: url("../img/Rectangle 7.png") no-repeat;
+    text-align: center;
+}
+
+.submit-mes h2{
+    font-size: 30px;
+    color: #FFFFFF;
+    margin-bottom: 28px;
+}
+
+.submit-mes form input{
+    width: 433px;
+    height: 48px;
+    background: none;
+    border: solid 1px #9ea3a4;
+}
+
+.submit-mes form input::-webkit-input-placeholder{font-size : 14px;color:#edeae3;}
+
+.submit-mes textarea{
+    margin-top: 28px;
+    width: 896px;
+    height: 215px;
+    background: none;
+}
+.fix-text::-webkit-input-placeholder{font-size : 14px;color:#edeae3;}
+
+.submit-mes form button{
+    width: 196px;
+    height: 50px;
+    margin-top: 30px;
+    background: #1dde85;
+    color: #FFFFFF;
+    border: none;
+}
